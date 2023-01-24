@@ -1,0 +1,32 @@
+{
+  "id": "com.logitech.soundsystems",
+  "version": "1.1.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "Logitech Sound System"
+  },
+  "description": {
+    "en": "Supporting the beloved Logitech sound systems through infrared.",
+    "nl": "De geliefde Logitech geluidssystemen ondersteund via infrarood."
+  },
+  "brandColor": "#00EAD0",
+  "category": [
+    "music"
+  ],
+  "platforms": [
+    "local"
+  ],
+  "permissions": [
+    "homey:wireless:ir"
+  ],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Ivo Derksen",
+    "email": "ifjederksen@gmail.com"
+  }
+}

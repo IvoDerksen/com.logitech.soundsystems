@@ -1,0 +1,51 @@
+  {
+    "name": { "en": "Logitech Z-5500 5.1 Set" },
+    "class": "amplifier",
+    "capabilities": [
+	    "onoff",
+	    "volume_up",
+	    "volume_mute",
+	    "menu",
+	    "volume_down",
+	    "input_direct",
+	    "input_optical",
+	    "sub_up",
+	    "surround_up",
+	    "sub_down",
+	    "surround_down",
+	    "input_stereo_1",
+	    "input_stereo_2",
+	    "input_stereo_3"
+	],
+    "platforms": [
+      "local"
+    ],
+    "connectivity": [ "infrared" ],
+    "images": {
+      "small": "{{driverAssetsPath}}/images/small.png",
+      "large": "{{driverAssetsPath}}/images/large.png",
+      "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
+    },
+    "pair": [
+      {
+        "id": "rf_ir_remote_learn",
+        "navigation": {
+          "next": "rf_ir_remote_add"
+        },
+        "options": {
+          "title": {
+            "en": "Connect your system",
+            "nl": "Koppel je systeem"
+          },
+          "instruction": {
+            "en": "Press next to connect your system.",
+            "nl": "Druk op volgende om je systeem te koppelen."
+          }
+        }
+      },
+      {
+        "id": "rf_ir_remote_add"
+      }
+    ]
+  }
+  

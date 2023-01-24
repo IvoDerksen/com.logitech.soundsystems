@@ -1,0 +1,9 @@
+{
+  "type": "boolean",
+  "title": { "en": "Subwoofer" },
+  "getable": false,
+  "setable": true,
+  "uiComponent": "button",
+  "uiQuickAction": true,
+  "icon": "/assets/capabilities/arrow_down.svg"
+}

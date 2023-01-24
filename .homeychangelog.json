@@ -1,0 +1,14 @@
+{
+  "1.0.0": {
+    "en": "First working version on SDK 3"
+  },
+  "1.0.1": {
+    "en": "added feedback for submission to the app store"
+  },
+  "1.0.2": {
+    "en": "Accidentally overwritten device.js with svg code ..."
+  },
+  "1.1.0": {
+    "en": "Removed support for cloud due to it being a community app (I was lucky a year ago). Fixed Mute mapping"
+  }
+}

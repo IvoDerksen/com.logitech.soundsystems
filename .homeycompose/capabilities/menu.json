@@ -1,0 +1,9 @@
+{
+  "type": "boolean",
+  "title": { "en": "Menu" },
+  "getable": false,
+  "setable": true,
+  "uiComponent": "button",
+  "uiQuickAction": true,
+  "icon": "/assets/capabilities/menu.svg"
+}
